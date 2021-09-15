@@ -1,0 +1,2 @@
+export const sampleText =
+  '# Titre\n## Sous-titre \n### Titre plus profond \n\nLes paragraphes sont séparés\npar une ligne vide.\n\nLaissez deux espaces à la fin d\'une ligne pour \naller à la ligne.\n\nAttributs *italique*, **gras**,\n`monospace`, ~~rayé~~.\n\nListe numérotée: \n\n 1. Jambon\n 2. Cornichon\n 3. Pain\n\n *[Jimy Marletta](https://twitter.com/jimymltta)* \n\nLien automatique : https://twitter.com/jimymltta/ \n\n```\n console.log("hello"); \n```';
